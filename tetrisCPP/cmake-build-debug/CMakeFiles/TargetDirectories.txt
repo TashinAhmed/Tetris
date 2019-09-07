@@ -1,0 +1,3 @@
+C:/Users/tashi/CLionProjects/tetrisCPP/cmake-build-debug/CMakeFiles/tetrisCPP.dir
+C:/Users/tashi/CLionProjects/tetrisCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tashi/CLionProjects/tetrisCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
