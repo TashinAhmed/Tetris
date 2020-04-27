@@ -1,7 +1,5 @@
 # Tetris
-tetris game in command line runnable in visual cpp
-
-also a gui version written in java added on named as Tetris.java
+Tetris game in command line. Runnable in visual CPP. Also a GUI version written in JAVA.
 
 ![alt text](https://user-images.githubusercontent.com/25844897/64544991-cd2f1900-d349-11e9-92ec-73eba54acea2.jpg)
 
