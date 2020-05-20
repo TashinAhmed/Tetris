@@ -1,24 +1,5 @@
 /*
-	Command Line Tetris inspired Javi
-
-	License
-	~~~~~~~
-	Copyright (C) 2018  tashin ahmed
-	This program comes with ABSOLUTELY NO WARRANTY.
-	This is free software, and you are welcome to redistribute it
-	under certain conditions; See license for details. 
-
-	GNU GPLv3
-
-	From tashin ahmed :)
-	~~~~~~~~~~~~~~~
-	Hello! Ultimately I don't care what you use this for. It's intended to be 
-	educational, and perhaps to the oddly minded - a little bit of fun. 
-	Please hack this, change it and use it in any way you see fit. You acknowledge 
-	that I am not responsible for anything bad that happens as a result of 
-	your actions. However this code is protected by GNU GPLv3, see the license in the
-	github repo. This means you must attribute me if you use it.
-	Cheers!
+	Command Line Tetris inspired Java, Swing
 */
 
 #include <iostream>
